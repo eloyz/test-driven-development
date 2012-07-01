@@ -1,0 +1,20 @@
+[
+  {
+    "pk": 1, 
+    "model": "auth.user", 
+    "fields": {
+      "username": "eloy", 
+      "first_name": "", 
+      "last_name": "", 
+      "is_active": true, 
+      "is_superuser": true, 
+      "is_staff": true, 
+      "last_login": "2012-06-23T15:59:43.209Z", 
+      "groups": [], 
+      "user_permissions": [], 
+      "password": "pbkdf2_sha256$10000$PHclmzNRezAt$S2k+C4KyP/hTfOH48aPwxpBnMP/wzpROD5WqWl/OxZQ=", 
+      "email": "eloyz.email@gmail.com", 
+      "date_joined": "2012-06-23T15:59:00.919Z"
+    }
+  }
+]
